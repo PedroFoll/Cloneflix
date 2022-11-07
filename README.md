@@ -1,11 +1,11 @@
-## 🎓🎓 Projeto Clone NetFlix
+## 🎓 Projeto Clone NetFlix
 Projeto do curso da Hastag - Python impressionador
 
-## 🔧🔧 Tecnologias utilizadas : 
+## 🔧 Tecnologias utilizadas : 
 - Python
 - Django 
 
-## 🚀🚀 Como executar?
+## 🚀 Como executar?
 - Clonar o repositório, entrar no venv e ativa-lo:
 ```sh
 cd .\venv.\Scripts.\Activate
