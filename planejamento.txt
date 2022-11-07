@@ -1,0 +1,18 @@
+- Home Page
+- Fazer login e Criar conta (Usuário e autenticação)
+    - Username
+    - Senha
+    - Filmes vistos
+    - Editar Perfil
+
+-Filmes
+    - Epsodios
+        - Video
+        - Titulo
+    - Thumb
+    - Titulo
+    - Descrição
+    - Categoria
+    - Quantidade de Views
+
+-Barra de Pequisa
